@@ -1,0 +1,5 @@
+{
+  "UNAUTHORIZED": "Unauthorized",
+  "NOT_FOUND": "{field} not found",
+  "ALREADY_EXISTS": "{field} already exists"
+}
